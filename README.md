@@ -1,1 +1,1 @@
-# recognition
+# RGB recognition according to distance
